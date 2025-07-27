@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b66dcac4-335d-425d-8e99-5198f2533ac7" name="Changes" comment="made the atm sim">
-      <change afterPath="$PROJECT_DIR$/GPA Calculator.py" afterDir="false" />
+    <list default="true" id="b66dcac4-335d-425d-8e99-5198f2533ac7" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime Number Finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prime Number Finder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Python.1-SimpleCalculator.executor": "Run",
     "Python.ATM Simulation.executor": "Run",
     "Python.GPA Calculator.executor": "Run",
+    "Python.Prime Number Finder.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753606183571</updated>
-      <workItem from="1753606184665" duration="8482000" />
+      <workItem from="1753606184665" duration="12803000" />
     </task>
     <task id="LOCAL-00001" summary="just wrote the code">
       <option name="closed" value="true" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753611377347</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1753615129740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753615129740</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,11 +136,13 @@
     <MESSAGE value="just wrote the code" />
     <MESSAGE value="added ide files" />
     <MESSAGE value="made the atm sim" />
-    <option name="LAST_COMMIT_MESSAGE" value="made the atm sim" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$GPA_Calculator.coverage" NAME="GPA Calculator Coverage Results" MODIFIED="1753613842544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$ATM_Simulation.coverage" NAME="ATM Simulation Coverage Results" MODIFIED="1753610771866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$Prime_Number_Finder.coverage" NAME="Prime Number Finder Coverage Results" MODIFIED="1753619142374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$1_SimpleCalculator.coverage" NAME="1-SimpleCalculator Coverage Results" MODIFIED="1753608164752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
