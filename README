@@ -1,0 +1,47 @@
+# 🔰 Beginner Level Python Projects
+
+**Focus Areas:**
+Syntax · Variables · Input/Output · Conditional Logic · Loops · Lists & Tuples (basic) · Function Definitions
+
+This repository contains **7 beginner-level Python projects** designed to reinforce foundational programming skills. By the end of this level, you should feel confident in basic logic building, control flow, and writing clean Python code.
+
+---
+
+## 🚀 Project List
+
+### 1. Basic Calculator
+
+A simple calculator that performs addition, subtraction, multiplication, and division based on user input.
+
+### 2. ATM Simulation
+
+Simulates a basic ATM machine:
+
+* User login
+* View balance
+* Deposit and withdraw money
+
+### 3. GPA Calculator
+
+Takes multiple grades as input and calculates the average. Includes error handling for invalid inputs.
+
+### 4. Prime Number Checker
+
+Checks whether a given number is prime. Includes basic loop and conditional logic.
+
+### 5. Reverse & Sort List
+
+Takes a list of numbers from the user, reverses it, and sorts it in ascending order.
+
+### 6. Rock-Paper-Scissors Game
+
+A terminal-based version of the classic game against the computer. Uses random module and basic logic.
+
+### 7. Simple Password Validator
+
+Checks if a password meets basic criteria:
+
+* Minimum length
+* Includes letters and numbers
+* Optional: Special character check
+
