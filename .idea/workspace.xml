@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b66dcac4-335d-425d-8e99-5198f2533ac7" name="Changes" comment="MADE Password Security Check.py" />
+    <list default="true" id="b66dcac4-335d-425d-8e99-5198f2533ac7" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zero.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,7 +87,7 @@
       <workItem from="1753606184665" duration="16701000" />
       <workItem from="1753693468473" duration="142000" />
       <workItem from="1753693635403" duration="2408000" />
-      <workItem from="1753699840604" duration="6446000" />
+      <workItem from="1753699840604" duration="6860000" />
     </task>
     <task id="LOCAL-00001" summary="just wrote the code">
       <option name="closed" value="true" />
@@ -150,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753705771010</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1753706680717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753706680717</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,12 +182,12 @@
     <MESSAGE value="just wrote the code" />
     <MESSAGE value="added ide files" />
     <MESSAGE value="made the atm sim" />
-    <MESSAGE value="commit" />
     <MESSAGE value="made the Prime Number Finder.py" />
     <MESSAGE value="made this lil mini sorter app" />
     <MESSAGE value="rock paper something game added" />
     <MESSAGE value="MADE Password Security Check.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="MADE Password Security Check.py" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$Password_Security_Check.coverage" NAME="Password Security Check Coverage Results" MODIFIED="1753705573695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
