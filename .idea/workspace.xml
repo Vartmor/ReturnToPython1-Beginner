@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b66dcac4-335d-425d-8e99-5198f2533ac7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Rock Paper Scissors Game.py" afterDir="false" />
+    <list default="true" id="b66dcac4-335d-425d-8e99-5198f2533ac7" name="Changes" comment="rock paper something game added">
+      <change afterPath="$PROJECT_DIR$/Password Security Check.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Python.1-SimpleCalculator.executor": "Run",
     "Python.ATM Simulation.executor": "Run",
     "Python.GPA Calculator.executor": "Run",
+    "Python.Password Security Check.executor": "Run",
     "Python.Prime Number Finder.executor": "Run",
     "Python.Reverse & Sort Mini App.executor": "Run",
     "Python.Rock Paper Scissors Game.executor": "Run",
@@ -86,7 +87,7 @@
       <workItem from="1753606184665" duration="16701000" />
       <workItem from="1753693468473" duration="142000" />
       <workItem from="1753693635403" duration="2408000" />
-      <workItem from="1753699840604" duration="2727000" />
+      <workItem from="1753699840604" duration="5851000" />
     </task>
     <task id="LOCAL-00001" summary="just wrote the code">
       <option name="closed" value="true" />
@@ -136,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753699809477</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="rock paper something game added">
+      <option name="closed" value="true" />
+      <created>1753702707724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753702707725</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,9 +169,11 @@
     <MESSAGE value="commit" />
     <MESSAGE value="made the Prime Number Finder.py" />
     <MESSAGE value="made this lil mini sorter app" />
-    <option name="LAST_COMMIT_MESSAGE" value="made this lil mini sorter app" />
+    <MESSAGE value="rock paper something game added" />
+    <option name="LAST_COMMIT_MESSAGE" value="rock paper something game added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$Password_Security_Check.coverage" NAME="Password Security Check Coverage Results" MODIFIED="1753705573695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$GPA_Calculator.coverage" NAME="GPA Calculator Coverage Results" MODIFIED="1753613842544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$Prime_Number_Finder.coverage" NAME="Prime Number Finder Coverage Results" MODIFIED="1753619142374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ReturnToPython_Beginner$ATM_Simulation.coverage" NAME="ATM Simulation Coverage Results" MODIFIED="1753693472230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
